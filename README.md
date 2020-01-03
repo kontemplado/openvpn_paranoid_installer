@@ -11,20 +11,6 @@ This project is a fork <a href="https://github.com/Nyr/openvpn-install" target="
 ### Installation
 Run the script and follow the assistant:
 
-`wget https://raw.githubusercontent.com/cryptopunks/openvpn_paranoid_installer/master/openvpn_paranoid_installer.sh --no-check-certificate -O openvpn_paranoid_installer.sh; bash openvpn_paranoid_installer.sh`
+`wget https://raw.githubusercontent.com/kontemplado/openvpn_paranoid_installer/master/openvpn_paranoid_installer.sh --no-check-certificate -O openvpn_paranoid_installer.sh; bash openvpn_paranoid_installer.sh`
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
-
-### Donations
-
-If you want to show your appreciation, you can donate:
-
-(bitcoin)
-```
-1NYYFoJiRPnkmFbcv5kYLqwsweix1cVmBT
-```
-
-(paypal)<br>
-mathematics1688@gmail.com
-
-Thanks!
